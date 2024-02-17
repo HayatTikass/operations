@@ -1,1 +1,1 @@
-first read.me file
+Create a set of functions for basic calculator operations (addition, subtraction, multiplication, division). Implement functions that take two numbers and an operator as input and return the result of the operation.
