@@ -24,11 +24,6 @@ function divide(num1, num2) {
 let num1 = 16;
 let num2 = 4;
 
-let operation = "/";
-
-// Creating result variable
-let result;
-
 // If-Else conditions
 if (operation === "+") {
   result = add(num1, num2);
